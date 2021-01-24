@@ -1,5 +1,6 @@
 html, body, .container {
     height: 100%;
+    background-color: cornflowerblue;
 }
 .container {
     display: -webkit-flexbox;
@@ -14,9 +15,9 @@ html, body, .container {
 }
 
 h1 {
-    color: rgb(249, 249, 255);
+    color: white
   }
 
   h2 {
-      color: black
+      color: white
   }
